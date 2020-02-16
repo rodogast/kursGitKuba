@@ -1,1 +1,3 @@
-Zmiana w pliku 
+Zmiana w plik
+
+nowa funkcjonalnoscu 
