@@ -1,0 +1,3 @@
+Qc5665b1 (test) rozgaleziamy
+| * 854d26c (test2) edytowalem plik
+| * 9270909 doadje test aby rozwidlic
